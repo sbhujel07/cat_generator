@@ -1,6 +1,7 @@
 # cat_generator
 
-A new Flutter project.
+this is my new flutter project catgenerator that generates the image of different cat,
+using a catgenerator api.
 
 ## Getting Started
 
